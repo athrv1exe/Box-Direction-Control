@@ -1,3 +1,6 @@
+![image](https://github.com/athrv1exe/Box-Direction-Control/assets/91598258/b484a708-78bb-498a-a291-486136069582)
+
+
 This is the First Task of my Internship at E-Katta Innovators LLP. This project demonstrates a simple web application for controlling the horizontal movement of a box using left and right buttons. The box smoothly traverses from left to right and vice versa when the corresponding buttons are pressed.
 
 Features:
